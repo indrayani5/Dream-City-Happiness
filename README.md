@@ -29,7 +29,14 @@ Data Visualization & Analysis
 
 Dashboard Design & Storytelling
 
-
 🚀 Outcome
 
 This project demonstrates how data storytelling and visual analytics can transform raw data into meaningful insights about human well-being and urban life.
+
+🧑‍💻 Author
+
+Indrayani Bhagat
+
+📍 Pune, India
+
+🔗 LinkedIn Profile - https://www.linkedin.com/in/indrrayani-bhagat-056b24354
